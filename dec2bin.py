@@ -13,7 +13,7 @@ def dec2bin(numero_decimal, numero_bits):
         numero_binario = "0" + numero_binario
     return numero_binario
 
-# ----------------------------------------
+# ---------------------------------------
 # MAIN
 # ----------------------------------------
 if __name__ == "__main__":
